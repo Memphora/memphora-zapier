@@ -1,0 +1,35 @@
+{
+  "name": "memphora-zapier",
+  "version": "1.0.0",
+  "description": "Memphora integration for Zapier - AI Memory for your automations",
+  "main": "index.js",
+  "scripts": {
+    "test": "zapier test",
+    "build": "zapier build",
+    "push": "zapier push",
+    "validate": "zapier validate",
+    "describe": "zapier describe"
+  },
+  "dependencies": {
+    "zapier-platform-core": "15.18.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "zapier",
+    "memphora",
+    "ai",
+    "memory",
+    "automation"
+  ],
+  "author": "Memphora <info@memphora.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Memphora/memphora-zapier.git"
+  }
+}
