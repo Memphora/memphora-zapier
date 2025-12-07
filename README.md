@@ -1,7 +1,7 @@
 # Memphora Zapier Integration
 
 <p align="center">
-  <img src="../frontend/public/logo.png" alt="Memphora Logo" width="120" height="120">
+  <img src="logo.png" alt="Memphora Logo" width="120" height="120">
 </p>
 
 <p align="center">
